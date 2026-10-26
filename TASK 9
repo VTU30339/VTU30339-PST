@@ -27,3 +27,8 @@ public class LastDigitMethodReference {
         sc.close();
     }
 }
+
+INPUT:
+10 + 20
+OUTPUT:
+Test Passed
