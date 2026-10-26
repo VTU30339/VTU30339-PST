@@ -26,3 +26,8 @@ public class MaximumElement {
         sc.close();
     }
 }
+
+OUTPUT:
+Enter the number of days: 8
+Enter daily profit/loss values: 2 4 3 5 -4 -5 -1 0 7
+Maximum obtainable profit: 14
