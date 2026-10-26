@@ -26,3 +26,9 @@ public class ArrayIndex {
         sc.close();
     }
 }
+
+INPUT:
+5 
+1000 2000 3000 4000 5000
+OUTPUT:
+1100 2200 3300 4400 5500
