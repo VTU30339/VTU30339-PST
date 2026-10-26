@@ -20,3 +20,13 @@ public class Main {
         sc.close();
     }
 }
+
+INPUT:
+3 
+admin admin123
+ab 123
+user pass
+OUTPUT:
+SUCCESS
+FAILURE
+FAILURE
