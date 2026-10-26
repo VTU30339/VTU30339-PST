@@ -28,7 +28,7 @@ public class LastDigitMethodReference {
     }
 }
 
-INPUT:
-10 + 20
 OUTPUT:
-Test Passed
+Enter first number: 10
+Enter second number: 20
+Sum of Last Digits = 0
