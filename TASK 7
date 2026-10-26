@@ -33,3 +33,15 @@ public class FibonacciLambda {
         sc.close();
     }
 }
+
+INPUT:
+5
+Java
+Python
+Java
+AI
+Python
+OUTPUT:
+Java 2
+Python 2
+AI 1
