@@ -25,3 +25,11 @@ public class ArrayPairs {
         sc.close();
     }
 }
+
+INPUT:
+3 
+Deposit 5000
+Withdraw 2000
+Deposit 1000
+OUTPUT:
+4000
