@@ -28,3 +28,10 @@ public class KthSmallest {
         sc.close();
     }
 }
+
+OUTPUT:
+Enter DNA Sequence: ATG CGA TCGA TCG
+Enter DNA pattern to search: ATG
+Searching for pattern......
+Pattern found at position 5
+Pattern found at position 9
