@@ -40,3 +40,13 @@ public class DigitSumLambda {
         sc.close();
     }
 }
+
+INPUT:
+3 
+Bike 10
+Cab 15
+Auto 8
+OUTPUT:
+50 
+180
+96
